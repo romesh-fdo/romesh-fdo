@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Romesh Fernando  
 
-🚀 **Senior Software Engineer | AI & Cloud Solutions Architect**  
+🚀 **Senior Software Engineer**  
 🌍 Based in Sri Lanka | 💼 Available for global opportunities  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/romesh-fernando-61a86315b/)  
