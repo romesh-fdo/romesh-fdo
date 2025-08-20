@@ -18,7 +18,7 @@ Passionate about **emerging technologies**, with practical experience integratin
 
 **Core Competencies:**
 - Full-stack web development using PHP, JavaScript, MySQL, and Laravel  
-- Cloud computing with AWS (EC2, S3, Lambda)  
+- Cloud computing with AWS (EC2, S3, SES, SQS, Lambda)  
 - REST API design, MVC frameworks, and scalable architectures  
 - CI/CD pipeline setup and automation  
 - AI integration for chatbots, NLP interfaces, and reporting assistants  
