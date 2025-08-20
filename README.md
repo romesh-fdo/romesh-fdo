@@ -9,10 +9,25 @@
 
 ---
 
-## 🧑‍💻 About Me
-Experienced Software Engineer with 4+ years in **web application design, development, and deployment**.  
-Specialized in **October CMS, Laravel, AI-powered solutions**, and **AWS cloud infrastructure**.  
-I build **scalable, high-performance applications** with a strong focus on **automation, CI/CD, and AI-first engineering**.  
+## 👨‍💻 About Me
+
+Results-driven **Software Engineer** with 4+ years of experience in **designing, developing, and deploying** scalable web applications that enhance user experience and drive business growth. Skilled in **PHP, JavaScript, MySQL, HTML, CSS, and Laravel**, with a proven track record in delivering robust, high-performance solutions.
+
+Experienced in **cloud computing** with deep expertise in **Amazon Web Services (AWS)**, including **EC2, S3, Lambda**, and **CI/CD pipelines** for seamless deployments. Proficient in **optimizing application performance** within cloud-based architectures.
+
+Passionate about **emerging technologies**, with practical experience integrating **AI solutions** using **OpenAI APIs** to build intelligent features and automation tools. Adept at applying **Agile methodologies** to improve delivery efficiency, collaboration, and adaptability.
+
+**Core Competencies:**
+- Full-stack web development using PHP, JavaScript, MySQL, and Laravel  
+- Cloud computing with AWS (EC2, S3, Lambda)  
+- REST API design, MVC frameworks, and scalable architectures  
+- CI/CD pipeline setup and automation  
+- AI integration for chatbots, NLP interfaces, and reporting assistants  
+- Agile/SCRUM team collaboration and leadership  
+- Performance tuning and problem-solving in high-volume environments
+
+**Professional Mindset:** Proactive, adaptable, and focused on innovation. Skilled at **mentorship**, cross-functional collaboration, and delivering **efficient, scalable solutions** that align with business objectives.
+ 
 
 ---
 
