@@ -87,7 +87,6 @@ Passionate about **emerging technologies**, with practical experience integratin
 ## 📊 GitHub Stats
 
 ![Romesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=romesh-fdo&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romesh-fdo&layout=compact&theme=tokyonight)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=romesh-fdo&theme=tokyo-night&hide_border=true))
 
 ---
