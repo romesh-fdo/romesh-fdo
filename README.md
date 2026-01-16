@@ -4,7 +4,6 @@
 🌍 Based in Sri Lanka | 💼 Available for global opportunities  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/romesh-fernando-61a86315b/)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=flat&logo=gmail)](mailto:romeshfernandodean98@gmail.com)  
 
 ---
 
