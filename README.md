@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-Results-driven **Software Engineer** with 4+ years of experience in **designing, developing, and deploying** scalable web applications that enhance user experience and drive business growth. Skilled in **PHP, JavaScript, MySQL, HTML, CSS, and Laravel**, with a proven track record in delivering robust, high-performance solutions.
+Results-driven **Software Engineer** with 5+ years of experience in **designing, developing, and deploying** scalable web applications that enhance user experience and drive business growth. Skilled in **PHP, JavaScript, MySQL, HTML, CSS, and Laravel**, with a proven track record in delivering robust, high-performance solutions.
 
 Experienced in **cloud computing** with deep expertise in **Amazon Web Services (AWS)**, including **EC2, S3, Lambda**, and **CI/CD pipelines** for seamless deployments. Proficient in **optimizing application performance** within cloud-based architectures.
 
